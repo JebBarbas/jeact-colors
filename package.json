@@ -1,0 +1,48 @@
+{
+  "name": "@jeact/colors",
+  "version": "1.0.0",
+  "description": "A module that stores colors. Including Bootstrap and MaterialUI colors. (This module is inspired in jebbarbas's `jebcolors`\r module, but this module only stores colors).",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "release": "standard-version",
+    "share": "git push --follow-tags origin main && npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JebBarbas/jeact-colors.git"
+  },
+  "keywords": [
+    "react",
+    "jeact",
+    "colors",
+    "bootstrap",
+    "material",
+    "mui",
+    "tailwind",
+    "jebcolors",
+    "web",
+    "social"
+  ],
+  "author": "jebbarbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JebBarbas/jeact-colors/issues"
+  },
+  "homepage": "https://github.com/JebBarbas/jeact-colors#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-typescript": "^7.15.0",
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.10.3",
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/parser": "^4.33.0",
+    "babel-jest": "^27.2.5",
+    "eslint": "^7.32.0",
+    "jest": "^27.2.5",
+    "standard-version": "^9.3.1",
+    "typescript": "^4.4.3"
+  }
+}
