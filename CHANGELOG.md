@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/JebBarbas/jeact-colors/compare/v1.0.2...v1.1.0) (2021-10-20)
+
+
+### Features
+
+* Changed tsc target from esnext to es5 👍 ([108c5b4](https://github.com/JebBarbas/jeact-colors/commit/108c5b460f3e82fadc01da488d42bbbc8924af51))
+
 ### [1.0.2](https://github.com/JebBarbas/jeact-colors/compare/v1.0.1...v1.0.2) (2021-10-14)
 
 
