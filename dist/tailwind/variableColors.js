@@ -1,6 +1,6 @@
 // Tailwind Colors
 // CoolGray
-export const coolGray = {
+export var coolGray = {
     '50': '#F9FAFB',
     '100': '#F3F4F6',
     '200': '#E5E7EB',
@@ -13,7 +13,7 @@ export const coolGray = {
     '900': '#111827'
 };
 // Gray
-export const gray = {
+export var gray = {
     '50': '#FAFAFA',
     '100': '#F4F4F5',
     '200': '#E4E4E7',
@@ -26,7 +26,7 @@ export const gray = {
     '900': '#18181B',
 };
 // True Gray
-export const trueGray = {
+export var trueGray = {
     '50': '#FAFAFA',
     '100': '#F5F5F5',
     '200': '#E5E5E5',
@@ -39,7 +39,7 @@ export const trueGray = {
     '900': '#171717',
 };
 // Warm Gray
-export const warmGray = {
+export var warmGray = {
     '50': '#FAFAF9',
     '100': '#F5F5F4',
     '200': '#E7E5E4',
@@ -52,7 +52,7 @@ export const warmGray = {
     '900': '#1C1917',
 };
 // Red
-export const red = {
+export var red = {
     '50': '#FEF2F2',
     '100': '#FEE2E2',
     '200': '#FECACA',
@@ -65,7 +65,7 @@ export const red = {
     '900': '#7F1D1D'
 };
 // Orange
-export const orange = {
+export var orange = {
     '50': '#FFF7ED',
     '100': '#FFEDD5',
     '200': '#FED7AA',
@@ -78,7 +78,7 @@ export const orange = {
     '900': '#7C2D12',
 };
 // Amber
-export const amber = {
+export var amber = {
     '50': '#FFFBEB',
     '100': '#FEF3C7',
     '200': '#FDE68A',
@@ -91,7 +91,7 @@ export const amber = {
     '900': '#78350F'
 };
 // Yellow
-export const yellow = {
+export var yellow = {
     '50': '#FEFCE8',
     '100': '#FEF9C3',
     '200': '#FEF08A',
@@ -104,7 +104,7 @@ export const yellow = {
     '900': '#713F12',
 };
 // Lime
-export const lime = {
+export var lime = {
     '50': '#F7FEE7',
     '100': '#ECFCCB',
     '200': '#D9F99D',
@@ -117,7 +117,7 @@ export const lime = {
     '900': '#365314',
 };
 // Green
-export const green = {
+export var green = {
     '50': '#F0FDF4',
     '100': '#DCFCE7',
     '200': '#BBF7D0',
@@ -130,7 +130,7 @@ export const green = {
     '900': '#14532D',
 };
 // Emerald
-export const emerald = {
+export var emerald = {
     '50': '#ECFDF5',
     '100': '#D1FAE5',
     '200': '#A7F3D0',
@@ -143,7 +143,7 @@ export const emerald = {
     '900': '#064E3B'
 };
 // Teal
-export const teal = {
+export var teal = {
     '50': '#F0FDFA',
     '100': '#CCFBF1',
     '200': '#99F6E4',
@@ -156,7 +156,7 @@ export const teal = {
     '900': '#134E4A',
 };
 // Cyan
-export const cyan = {
+export var cyan = {
     '50': '#ECFEFF',
     '100': '#CFFAFE',
     '200': '#A5F3FC',
@@ -169,7 +169,7 @@ export const cyan = {
     '900': '#164E63',
 };
 // Sky
-export const sky = {
+export var sky = {
     '50': '#F0F9FF',
     '100': '#E0F2FE',
     '200': '#BAE6FD',
@@ -182,7 +182,7 @@ export const sky = {
     '900': '#0C4A6E',
 };
 // Blue
-export const blue = {
+export var blue = {
     '50': '#EFF6FF',
     '100': '#DBEAFE',
     '200': '#BFDBFE',
@@ -195,7 +195,7 @@ export const blue = {
     '900': '#1E3A8A'
 };
 // Indigo
-export const indigo = {
+export var indigo = {
     '50': '#EEF2FF',
     '100': '#E0E7FF',
     '200': '#C7D2FE',
@@ -208,7 +208,7 @@ export const indigo = {
     '900': '#312E81'
 };
 // Violet
-export const violet = {
+export var violet = {
     '50': '#F5F3FF',
     '100': '#EDE9FE',
     '200': '#DDD6FE',
@@ -221,7 +221,7 @@ export const violet = {
     '900': '#4C1D95'
 };
 // Purple
-export const purple = {
+export var purple = {
     '50': '#FAF5FF',
     '100': '#F3E8FF',
     '200': '#E9D5FF',
@@ -234,7 +234,7 @@ export const purple = {
     '900': '#581C87',
 };
 // Fuchsia
-export const fuchsia = {
+export var fuchsia = {
     '50': '#FDF4FF',
     '100': '#FAE8FF',
     '200': '#F5D0FE',
@@ -247,7 +247,7 @@ export const fuchsia = {
     '900': '#701A75',
 };
 // Pink
-export const pink = {
+export var pink = {
     '50': '#FDF2F8',
     '100': '#FCE7F3',
     '200': '#FBCFE8',
@@ -260,7 +260,7 @@ export const pink = {
     '900': '#831843',
 };
 // Rose
-export const rose = {
+export var rose = {
     '50': '#FFF1F2',
     '100': '#FFE4E6',
     '200': '#FECDD3',

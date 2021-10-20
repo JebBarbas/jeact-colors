@@ -3,7 +3,7 @@
 /**
  * Stores all the Bootstrap Blues
  */
-export const blue = {
+export var blue = {
     '100': '#cfe2ff',
     '200': '#9ec5fe',
     '300': '#6ea8fe',
@@ -18,7 +18,7 @@ export const blue = {
 /**
  * Stores all the Bootstrap Indigos
  */
-export const indigo = {
+export var indigo = {
     '100': '#e0cffc',
     '200': '#c29ffa',
     '300': '#a370f7',
@@ -33,7 +33,7 @@ export const indigo = {
 /**
  * Stores all the Bootstrap Purples
  */
-export const purple = {
+export var purple = {
     '100': '#e2d9f3',
     '200': '#c5b3e6',
     '300': '#a98eda',
@@ -48,7 +48,7 @@ export const purple = {
 /**
  * Stores all the Bootstrap Pinks
  */
-export const pink = {
+export var pink = {
     '100': '#f7d6e6',
     '200': '#efadce',
     '300': '#e685b5',
@@ -63,7 +63,7 @@ export const pink = {
 /**
  * Stores all the Bootstrap Reds
  */
-export const red = {
+export var red = {
     '100': '#f8d7da',
     '200': '#f1aeb5',
     '300': '#ea868f',
@@ -78,7 +78,7 @@ export const red = {
 /**
  * Stores all the Bootstrap Oranges
  */
-export const orange = {
+export var orange = {
     '100': '#ffe5d0',
     '200': '#fecba1',
     '300': '#feb272',
@@ -93,7 +93,7 @@ export const orange = {
 /**
  * Stores all the Bootstrap Yellows
  */
-export const yellow = {
+export var yellow = {
     '100': '#fff3cd',
     '200': '#ffe69c',
     '300': '#ffda6a',
@@ -108,7 +108,7 @@ export const yellow = {
 /**
  * Stores all the Bootstrap Greens
  */
-export const green = {
+export var green = {
     '100': '#d1e7dd',
     '200': '#a3cfbb',
     '300': '#75b798',
@@ -123,7 +123,7 @@ export const green = {
 /**
  * Stores all the Bootstrap Teals
  */
-export const teal = {
+export var teal = {
     '100': '#d2f4ea',
     '200': '#a6e9d5',
     '300': '#79dfc1',
@@ -138,7 +138,7 @@ export const teal = {
 /**
  * Stores all the Bootstrap Cyans
  */
-export const cyan = {
+export var cyan = {
     '100': '#cff4fc',
     '200': '#9eeaf9',
     '300': '#6edff6',
@@ -153,7 +153,7 @@ export const cyan = {
 /**
  * Stores all the Bootstrap Grays
  */
-export const gray = {
+export var gray = {
     '100': '#f8f9fa',
     '200': '#e9ecef',
     '300': '#dee2e6',
@@ -168,10 +168,10 @@ export const gray = {
 /**
  * Stores Bootstrap White
  */
-export const white = '#ffffff';
+export var white = '#ffffff';
 // Black
 /**
  * Stores Bootstrap Black
  */
-export const black = '#000000';
+export var black = '#000000';
 //# sourceMappingURL=variableColors.js.map

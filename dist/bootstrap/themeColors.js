@@ -4,7 +4,7 @@ import * as colors from "./variableColors";
 /**
  * Colors of the default Bootstrap theme
  */
-export const themeColors = {
+export var themeColors = {
     "primary": colors.blue[500],
     "secondary": colors.gray[600],
     "success": colors.green[500],
@@ -18,7 +18,7 @@ export const themeColors = {
 /**
  * Unused colors of Bootstrap
  */
-export const unusedColors = {
+export var unusedColors = {
     "purple": colors.purple[500],
     "indigo": colors.indigo[500],
     "orange": colors.orange[500],
@@ -31,7 +31,7 @@ export const unusedColors = {
 /**
  * Bootstrap colors in its '500' shade
  */
-export const shade500 = {
+export var shade500 = {
     "blue": colors.blue[500],
     "indigo": colors.indigo[500],
     "purple": colors.purple[500],

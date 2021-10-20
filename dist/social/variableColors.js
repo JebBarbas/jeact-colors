@@ -1,5 +1,5 @@
 // Social Main Colors
-export const misc = {
+export var misc = {
     'githubAlt': '#000000',
     'googlePlusOfficial': '#dd4b39',
     'google': '#dd4b39',

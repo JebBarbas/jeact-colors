@@ -1,5 +1,5 @@
 // JebColors colors
-export const misc = {
+export var misc = {
     'purple': "#ae42bd",
     'orange': "#fd9800",
     'aqua': "#00cca3",

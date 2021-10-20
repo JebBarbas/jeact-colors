@@ -1,6 +1,6 @@
 // Jebcolors theme colors
 import * as colors from './variableColors';
-export const themeColors = {
+export var themeColors = {
     'magic': colors.misc.purple,
     'juice': colors.misc.orange,
     'ocean': colors.misc.aqua,
@@ -20,7 +20,7 @@ export const themeColors = {
     'silver': colors.misc.lightGray,
     'sidra': colors.misc.cherry
 };
-export const unusedColors = {
+export var unusedColors = {
     'midnightGreen': colors.misc.midnightGreen,
     'silver2': colors.misc.silver2,
     'spaceGrey': colors.misc.spaceGrey,

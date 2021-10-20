@@ -1,6 +1,6 @@
 // Web variable colors
 // Pinks
-export const pink = {
+export var pink = {
     'mediumVioletRed': "#c71585",
     'deepPink': "#ff1493",
     'paleVioletRed': "#db7093",
@@ -9,7 +9,7 @@ export const pink = {
     'pink': "#ffc0cb",
 };
 // Reds
-export const red = {
+export var red = {
     'darkRed': "#8b0000",
     'red': "#ff0000",
     'firebrick': "#b22222",
@@ -21,7 +21,7 @@ export const red = {
     'lightSalmon': "#ffa07a",
 };
 // Oranges
-export const orange = {
+export var orange = {
     'orangeRed': "#ff4500",
     'tomato': "#ff6347",
     'darkOrange': "#ff8c00",
@@ -29,7 +29,7 @@ export const orange = {
     'orange': "#ffa500",
 };
 // Yellows
-export const yellow = {
+export var yellow = {
     'darkKhaki': "#bdb76b",
     'gold': "#ffd700",
     'khaki': "#f0e68c",
@@ -43,7 +43,7 @@ export const yellow = {
     'lightYellow': "#ffffe0",
 };
 // Browns
-export const brown = {
+export var brown = {
     'maroon': "#800000",
     'brown': "#a52a2a",
     'saddleBrown': "#8b4513",
@@ -63,7 +63,7 @@ export const brown = {
     'cornsilk': "#fff8dc",
 };
 // Greens
-export const green = {
+export var green = {
     'darkGreen': "#006400",
     'green': "#008000",
     'darkOliveGreen': "#556b2f",
@@ -86,7 +86,7 @@ export const green = {
     'paleGreen': "#98fb98",
 };
 // Cyans
-export const cyan = {
+export var cyan = {
     'teal': "#008080",
     'darkCyan': "#008b8b",
     'lightSeaGreen': "#20b2aa",
@@ -101,7 +101,7 @@ export const cyan = {
     'lightCyan': "#e0ffff",
 };
 // Blues
-export const blue = {
+export var blue = {
     'navy': "#000080",
     'darkBlue': "#00008b",
     'mediumBlue': "#0000cd",
@@ -119,7 +119,7 @@ export const blue = {
     'powderBlue': "#b0e0e6",
 };
 // Purples, Vios and Magentas
-export const purple = {
+export var purple = {
     'indigo': "#4b0082",
     'purple': "#800080",
     'darkMagenta': "#8b008b",
@@ -141,7 +141,7 @@ export const purple = {
     'rebeccaPurple': "#663399",
 };
 // Whites
-export const white = {
+export var white = {
     'mistyRose': "#ffe4e1",
     'antiqueWhite': "#faebd7",
     'linen': "#faf0e6",
@@ -161,7 +161,7 @@ export const white = {
     'white': "#ffffff",
 };
 // Grays and Blacks
-export const black = {
+export var black = {
     'black': "#000000",
     'darkSlateGray': "#2f4f4f",
     'dimGray': "#696969",

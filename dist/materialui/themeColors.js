@@ -4,7 +4,7 @@ import * as colors from './variableColors';
 /**
  * Colors of the dark theme of MaterialUI (only "main colors")
  */
-export const darkThemeColors = {
+export var darkThemeColors = {
     "primary": colors.blue[200],
     "secondary": colors.purple[200],
     "error": colors.red[500],
@@ -16,7 +16,7 @@ export const darkThemeColors = {
 /**
  * Colors of the default theme of MaterialUI (only "main" colors)
  */
-export const defaultThemeColors = {
+export var defaultThemeColors = {
     "primary": colors.blue[700],
     "secondary": colors.purple[500],
     "error": colors.red[700],
@@ -28,7 +28,7 @@ export const defaultThemeColors = {
 /**
  * MaterialUI colors in its '500' shade (this are used as primary colors)
  */
-export const shade500 = {
+export var shade500 = {
     "red": colors.red[500],
     "pink": colors.pink[500],
     "purple": colors.purple[500],
@@ -54,7 +54,7 @@ export const shade500 = {
 /**
  * MaterialUI colors in its 'A400' shade (this are used as secondary colors because have more saturation)
  */
-export const shadeA400 = {
+export var shadeA400 = {
     "red": colors.red['A400'],
     "pink": colors.pink['A400'],
     "purple": colors.purple['A400'],
