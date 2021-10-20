@@ -9,7 +9,7 @@ will do it for you).
 
 @jeact/colors is inspired (and created by the same author) in jebcolors, but this module has more colors, and only
 colors (not any function nor classes). If you want to get the perfect color for a text (if its better white or black)
-try using `@jeact/contrast-color`'s `contrast(color)` function.
+try using `@jeact/contrast-color`'s `contrastColor(color)` function.
 
 ## Instalation
 
@@ -155,15 +155,12 @@ To access to jebcolors colors (this colors are some that I liked because they ar
 import { JebColors } from '@jeact/colors'
 ```
 
-Now, any available jebcolors color is in `JebColors.misc`.
+Now, any available jebcolors color is in `JebColors.themeColors`.
 ```js
-const {magic, juice, blood} = JebColors.misc
+const {magic, juice, blood} = JebColors.themeColors
 ```
 
 ## How to know the contrast text?
-
-***WARNING: The module of below hasn't been created yet at 09/10/2021, but I'm working in it. I'll upload the README
-and remove this warning when `@jeact/contrast-color` is ready.***
 
 Sometimes you want to get the best color for a text with some background color, an example is: if you want to create
 a Google Login button, and you use `Social.misc.google` color for the background of the button... what should be the
@@ -171,3 +168,35 @@ color text to give good contrast?
 
 To get the perfect color of the text you can use another `@jeact` package, 
 [`@jeact/constrast-color`](https://www.npmjs.com/package/@jeact/contrast-color).
+
+```js
+import { Social } from '@jeact/colors'
+import contrastColor from '@jeact/contrast-color'
+
+const { google } = Social.misc
+
+const buttonBackgroundColor = google
+const buttonTextColor = contrastColor(google)
+```
+
+Now an example with `react`.
+
+```tsx
+import { Social } from '@jeact/colors'
+import contrastColor from '@jeact/contrast-color'
+
+const GoogleButton = () => {
+    const { google } = Social.misc
+
+    // TODO: Function to login with Google
+    const loginWithGoogle = () => {
+        // ...
+    }
+
+    return (
+        <button style={{backgroundColor: google, color: contrastColor(google)}} onClick={loginWithGoogle}>
+            Login With Google
+        </button>
+    )
+}
+```
