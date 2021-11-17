@@ -1,6 +1,6 @@
 {
   "name": "@jeact/colors",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "A module that stores colors. Including Bootstrap and MaterialUI colors. (This module is inspired in jebbarbas's `jebcolors`\r module, but this module only stores colors).",
   "main": "dist/index.js",
   "scripts": {
