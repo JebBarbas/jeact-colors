@@ -18,7 +18,7 @@ export interface TailwindColorType extends BootstrapColorType {
     '50'    : Color,
 }
 
-export interface MaterialUIColorType extends TailwindColorType {
+export interface MaterialColorType extends TailwindColorType {
     'A100'  : Color,
     'A200'  : Color,
     'A400'  : Color,

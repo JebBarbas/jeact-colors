@@ -1,24 +1,24 @@
 import {
-    MaterialUI
+    Material
 } from '../src/index'
 
 import color from './color'
 
 import type {
     SimpleColorGroupTheme,
-    MaterialUIColorType
+    MaterialColorType
 } from '../src/types'
 
-test('MaterialUI Color Groups', () => {
-    const MaterialUIColorGroups:MaterialUIColorType[] = [
-        MaterialUI.amber, MaterialUI.blue, MaterialUI.blueGrey, MaterialUI.brown,
-        MaterialUI.cyan, MaterialUI.deepOrange, MaterialUI.deepPurple, MaterialUI.green,
-        MaterialUI.grey, MaterialUI.indigo, MaterialUI.lightBlue, MaterialUI.lightGreen,
-        MaterialUI.lime, MaterialUI.orange, MaterialUI.pink, MaterialUI.purple, 
-        MaterialUI.red, MaterialUI.teal, MaterialUI.yellow
+test('Material Color Groups', () => {
+    const MaterialColorGroups:MaterialColorType[] = [
+        Material.amber, Material.blue, Material.blueGrey, Material.brown,
+        Material.cyan, Material.deepOrange, Material.deepPurple, Material.green,
+        Material.grey, Material.indigo, Material.lightBlue, Material.lightGreen,
+        Material.lime, Material.orange, Material.pink, Material.purple, 
+        Material.red, Material.teal, Material.yellow
     ]
 
-    MaterialUIColorGroups.forEach(group => {
+    MaterialColorGroups.forEach(group => {
         let groupKey: keyof typeof group
         for(groupKey in group){
             expect(group[groupKey]).toMatch(color)
@@ -26,13 +26,13 @@ test('MaterialUI Color Groups', () => {
     })
 })
 
-test('MaterialUI Themes', () => {
-    const MaterialUIThemes:SimpleColorGroupTheme[] = [
-        MaterialUI.defaultThemeColors, MaterialUI.darkThemeColors,
-        MaterialUI.shade500, MaterialUI.shadeA400
+test('Material Themes', () => {
+    const MaterialThemes:SimpleColorGroupTheme[] = [
+        Material.defaultThemeColors, Material.darkThemeColors,
+        Material.shade500, Material.shadeA400
     ]
 
-    MaterialUIThemes.forEach(theme => {
+    MaterialThemes.forEach(theme => {
         let themeKey: keyof typeof theme
         for(themeKey in theme){
             expect(theme[themeKey]).toMatch(color)
@@ -40,10 +40,10 @@ test('MaterialUI Themes', () => {
     })
 })
 
-test('MaterialUI Common', () => {
+test('Material Common', () => {
     // Test individual colors
-    let commonKey: keyof typeof MaterialUI.common
-    for(commonKey in MaterialUI.common){
-        expect(MaterialUI.common[commonKey]).toMatch(color)
+    let commonKey: keyof typeof Material.common
+    for(commonKey in Material.common){
+        expect(Material.common[commonKey]).toMatch(color)
     }
 })
