@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/JebBarbas/jeact-colors/compare/v1.2.0...v1.2.1) (2021-11-17)
+
+
+### Bug Fixes
+
+* Fixed one type and a testing problem related with the name 🔠 ([0fb8740](https://github.com/JebBarbas/jeact-colors/commit/0fb87405abaa84d4d7e2033af5969f49505e10fb))
+
 ## [1.2.0](https://github.com/JebBarbas/jeact-colors/compare/v1.1.1...v1.2.0) (2021-11-17)
 
 
