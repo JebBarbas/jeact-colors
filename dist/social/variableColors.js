@@ -35,4 +35,3 @@ export var misc = {
     'youtube': '#bb0000',
     'microsoft': '#46a4f2'
 };
-//# sourceMappingURL=variableColors.js.map

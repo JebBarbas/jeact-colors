@@ -1,8 +1,8 @@
-// All MaterialUI Colors
+// All Material Colors
 
 // Amber
 /**
- * Material UI Amber Colors
+ * Material Amber Colors
  */
 export const amber = {
     '50'    : '#fff8e1',
@@ -23,7 +23,7 @@ export const amber = {
 
 // Blue
 /**
- * Material UI Blue Colors
+ * Material Blue Colors
  */
 export const blue = {
     '50'    : '#e3f2fd',
@@ -44,7 +44,7 @@ export const blue = {
 
 // Blue Grey
 /**
- * Material UI Blue Grey Colors
+ * Material Blue Grey Colors
  */
 export const blueGrey = {
     '50'    : '#eceff1',
@@ -65,7 +65,7 @@ export const blueGrey = {
 
 // Brown
 /**
- * Material UI Brown Colors
+ * Material Brown Colors
  */
 export const brown = {
     '50'    : '#efebe9',
@@ -86,7 +86,7 @@ export const brown = {
 
 // Common
 /**
- * Material UI Common (Black and White) Colors
+ * Material Common (Black and White) Colors
  */
 export const common = {
     'black': '#000000',
@@ -95,7 +95,7 @@ export const common = {
 
 // Cyan
 /**
- * Material UI Cyan Colors
+ * Material Cyan Colors
  */
 export const cyan = {
     '50'    : '#e0f7fa',
@@ -116,7 +116,7 @@ export const cyan = {
 
 // Deep Orange 
 /**
- * Material UI Deep Orange Colors
+ * Material Deep Orange Colors
  */
 export const deepOrange = {
     '50'    : '#fbe9e7',
@@ -137,7 +137,7 @@ export const deepOrange = {
 
 // Deep Purple
 /**
- * Material UI Deep Purple Colors
+ * Material Deep Purple Colors
  */
 export const deepPurple = {
     '50'    : '#ede7f6',
@@ -158,7 +158,7 @@ export const deepPurple = {
 
 // Green
 /**
- * Material UI Green Colors
+ * Material Green Colors
  */
 export const green = {
     '50'    : '#e8f5e9',
@@ -179,7 +179,7 @@ export const green = {
 
 // Grey
 /**
- * Material UI Grey Colors
+ * Material Grey Colors
  */
 export const grey = {
     '50'    : '#fafafa',
@@ -200,7 +200,7 @@ export const grey = {
 
 // Indigo
 /**
- * Material UI Indigo Colors
+ * Material Indigo Colors
  */
 export const indigo = {
     '50'    : '#e8eaf6',
@@ -221,7 +221,7 @@ export const indigo = {
 
 // Light Blue
 /**
- * Material UI Blue Colors
+ * Material Blue Colors
  */
 export const lightBlue = {
     '50'    : '#e1f5fe',
@@ -242,7 +242,7 @@ export const lightBlue = {
 
 // Light Green 
 /**
- * Material UI Light Green Colors
+ * Material Light Green Colors
  */
 export const lightGreen = {
     '50'    : '#f1f8e9',
@@ -263,7 +263,7 @@ export const lightGreen = {
 
 // Lime
 /**
- * Material UI Lime Colors
+ * Material Lime Colors
  */
 export const lime = {
     '50'    : '#f9fbe7',
@@ -284,7 +284,7 @@ export const lime = {
 
 // Orange
 /**
- * Material UI Orange Colors
+ * Material Orange Colors
  */
 export const orange = {
     '50'    : '#fff3e0',
@@ -305,7 +305,7 @@ export const orange = {
 
 // Pink
 /**
- * Material UI Pink Colors
+ * Material Pink Colors
  */
 export const pink = {
     '50'    : '#fce4ec',
@@ -326,7 +326,7 @@ export const pink = {
 
 // Purple
 /**
- * Material UI Purple Colors
+ * Material Purple Colors
  */
 export const purple = {
     '50'    : '#f3e5f5',
@@ -347,7 +347,7 @@ export const purple = {
 
 // Red
 /**
- * Material UI Red Colors
+ * Material Red Colors
  */
 export const red = {
     '50'    : '#ffebee',
@@ -368,7 +368,7 @@ export const red = {
 
 // Teal
 /**
- * Material UI Teal Colors
+ * Material Teal Colors
  */
 export const teal = {
     '50'    : '#e0f2f1',
@@ -389,7 +389,7 @@ export const teal = {
 
 // Yellow
 /**
- * Material UI Yellow Colors
+ * Material Yellow Colors
  */
 export const yellow = {
     '50'    : '#fffde7',

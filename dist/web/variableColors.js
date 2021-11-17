@@ -173,4 +173,3 @@ export var black = {
     'lightGray': "#d3d3d3",
     'gainsboro': "#dcdcdc",
 };
-//# sourceMappingURL=variableColors.js.map

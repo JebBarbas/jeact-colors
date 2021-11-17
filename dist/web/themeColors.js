@@ -12,4 +12,3 @@ var __assign = (this && this.__assign) || function () {
 // Really this only stores all the color objects into one
 import * as colors from './variableColors';
 export var predefinedColors = __assign(__assign(__assign(__assign(__assign(__assign(__assign(__assign(__assign(__assign(__assign({}, colors.black), colors.blue), colors.brown), colors.cyan), colors.green), colors.orange), colors.pink), colors.purple), colors.red), colors.white), colors.yellow);
-//# sourceMappingURL=themeColors.js.map

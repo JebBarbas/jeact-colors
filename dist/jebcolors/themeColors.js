@@ -36,4 +36,3 @@ export var unusedColors = {
     'coral2': colors.misc.coral2,
     'gold': colors.misc.gold,
 };
-//# sourceMappingURL=themeColors.js.map

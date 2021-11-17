@@ -7,4 +7,3 @@
  */
 export { misc } from './variableColors';
 export { themeColors, unusedColors } from './themeColors';
-//# sourceMappingURL=index.js.map

@@ -1,4 +1,4 @@
-// Material UI Theme Colors
+// Material Theme Colors
 import * as colors from './variableColors'
 
 // Material main colors (used in dark theme)
@@ -29,7 +29,7 @@ export const defaultThemeColors = {
 
 // Material colors in shades
 /**
- * MaterialUI colors in its '500' shade (this are used as primary colors)
+ * Material colors in its '500' shade (this are used as primary colors)
  */
 export const shade500 = {
     "red"       : colors.red[500],
@@ -58,7 +58,7 @@ export const shade500 = {
 }
 
 /**
- * MaterialUI colors in its 'A400' shade (this are used as secondary colors because have more saturation)
+ * Material colors in its 'A400' shade (Used as a "accent" color)
  */
 export const shadeA400 = {
     "red"       : colors.red['A400'],

@@ -7,4 +7,3 @@
  * https://github.com/JebBarbas/jebcolors/blob/main/src/colors/social-variables.ts
  */
 export { misc } from './variableColors';
-//# sourceMappingURL=index.js.map

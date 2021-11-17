@@ -9,4 +9,3 @@
  * and the text of the colors and it separetes them and puts them into a object string, you can see it in variableColors
  */
 export { amber, blue, coolGray, cyan, emerald, fuchsia, gray, green, indigo, lime, orange, yellow, pink, purple, red, rose, sky, teal, trueGray, violet, warmGray } from './variableColors';
-//# sourceMappingURL=index.js.map

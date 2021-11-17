@@ -33,4 +33,3 @@ export var misc = {
     'coral2': "#ee7762",
     'gold': "#f5ddc5"
 };
-//# sourceMappingURL=variableColors.js.map

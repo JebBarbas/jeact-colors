@@ -315,4 +315,3 @@ const makePalette = () => {
 
 makePalette()
  */ 
-//# sourceMappingURL=variableColors.js.map

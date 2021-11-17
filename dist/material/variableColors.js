@@ -1,7 +1,7 @@
-// All MaterialUI Colors
+// All Material Colors
 // Amber
 /**
- * Material UI Amber Colors
+ * Material Amber Colors
  */
 export var amber = {
     '50': '#fff8e1',
@@ -21,7 +21,7 @@ export var amber = {
 };
 // Blue
 /**
- * Material UI Blue Colors
+ * Material Blue Colors
  */
 export var blue = {
     '50': '#e3f2fd',
@@ -41,7 +41,7 @@ export var blue = {
 };
 // Blue Grey
 /**
- * Material UI Blue Grey Colors
+ * Material Blue Grey Colors
  */
 export var blueGrey = {
     '50': '#eceff1',
@@ -61,7 +61,7 @@ export var blueGrey = {
 };
 // Brown
 /**
- * Material UI Brown Colors
+ * Material Brown Colors
  */
 export var brown = {
     '50': '#efebe9',
@@ -81,7 +81,7 @@ export var brown = {
 };
 // Common
 /**
- * Material UI Common (Black and White) Colors
+ * Material Common (Black and White) Colors
  */
 export var common = {
     'black': '#000000',
@@ -89,7 +89,7 @@ export var common = {
 };
 // Cyan
 /**
- * Material UI Cyan Colors
+ * Material Cyan Colors
  */
 export var cyan = {
     '50': '#e0f7fa',
@@ -109,7 +109,7 @@ export var cyan = {
 };
 // Deep Orange 
 /**
- * Material UI Deep Orange Colors
+ * Material Deep Orange Colors
  */
 export var deepOrange = {
     '50': '#fbe9e7',
@@ -129,7 +129,7 @@ export var deepOrange = {
 };
 // Deep Purple
 /**
- * Material UI Deep Purple Colors
+ * Material Deep Purple Colors
  */
 export var deepPurple = {
     '50': '#ede7f6',
@@ -149,7 +149,7 @@ export var deepPurple = {
 };
 // Green
 /**
- * Material UI Green Colors
+ * Material Green Colors
  */
 export var green = {
     '50': '#e8f5e9',
@@ -169,7 +169,7 @@ export var green = {
 };
 // Grey
 /**
- * Material UI Grey Colors
+ * Material Grey Colors
  */
 export var grey = {
     '50': '#fafafa',
@@ -189,7 +189,7 @@ export var grey = {
 };
 // Indigo
 /**
- * Material UI Indigo Colors
+ * Material Indigo Colors
  */
 export var indigo = {
     '50': '#e8eaf6',
@@ -209,7 +209,7 @@ export var indigo = {
 };
 // Light Blue
 /**
- * Material UI Blue Colors
+ * Material Blue Colors
  */
 export var lightBlue = {
     '50': '#e1f5fe',
@@ -229,7 +229,7 @@ export var lightBlue = {
 };
 // Light Green 
 /**
- * Material UI Light Green Colors
+ * Material Light Green Colors
  */
 export var lightGreen = {
     '50': '#f1f8e9',
@@ -249,7 +249,7 @@ export var lightGreen = {
 };
 // Lime
 /**
- * Material UI Lime Colors
+ * Material Lime Colors
  */
 export var lime = {
     '50': '#f9fbe7',
@@ -269,7 +269,7 @@ export var lime = {
 };
 // Orange
 /**
- * Material UI Orange Colors
+ * Material Orange Colors
  */
 export var orange = {
     '50': '#fff3e0',
@@ -289,7 +289,7 @@ export var orange = {
 };
 // Pink
 /**
- * Material UI Pink Colors
+ * Material Pink Colors
  */
 export var pink = {
     '50': '#fce4ec',
@@ -309,7 +309,7 @@ export var pink = {
 };
 // Purple
 /**
- * Material UI Purple Colors
+ * Material Purple Colors
  */
 export var purple = {
     '50': '#f3e5f5',
@@ -329,7 +329,7 @@ export var purple = {
 };
 // Red
 /**
- * Material UI Red Colors
+ * Material Red Colors
  */
 export var red = {
     '50': '#ffebee',
@@ -349,7 +349,7 @@ export var red = {
 };
 // Teal
 /**
- * Material UI Teal Colors
+ * Material Teal Colors
  */
 export var teal = {
     '50': '#e0f2f1',
@@ -369,7 +369,7 @@ export var teal = {
 };
 // Yellow
 /**
- * Material UI Yellow Colors
+ * Material Yellow Colors
  */
 export var yellow = {
     '50': '#fffde7',
@@ -387,4 +387,3 @@ export var yellow = {
     'A400': '#ffea00',
     'A700': '#ffd600'
 };
-//# sourceMappingURL=variableColors.js.map

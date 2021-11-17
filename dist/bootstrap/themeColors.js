@@ -46,4 +46,3 @@ export var shade500 = {
     "white": colors.white,
     "black": colors.black
 };
-//# sourceMappingURL=themeColors.js.map

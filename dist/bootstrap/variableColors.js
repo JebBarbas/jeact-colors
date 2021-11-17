@@ -174,4 +174,3 @@ export var white = '#ffffff';
  * Stores Bootstrap Black
  */
 export var black = '#000000';
-//# sourceMappingURL=variableColors.js.map

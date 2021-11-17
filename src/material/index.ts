@@ -1,5 +1,5 @@
 /*
- * Name: Material UI Colors
+ * Name: Material Colors
  * Version: MUI Material 5.0.3
  * Last Edit: 09/10/2021
  * Author: @jebbarbas

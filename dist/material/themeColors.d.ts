@@ -21,7 +21,7 @@ export declare const defaultThemeColors: {
     warning: string;
 };
 /**
- * MaterialUI colors in its '500' shade (this are used as primary colors)
+ * Material colors in its '500' shade (this are used as primary colors)
  */
 export declare const shade500: {
     red: string;
@@ -47,7 +47,7 @@ export declare const shade500: {
     black: string;
 };
 /**
- * MaterialUI colors in its 'A400' shade (this are used as secondary colors because have more saturation)
+ * Material colors in its 'A400' shade (Used as a "accent" color)
  */
 export declare const shadeA400: {
     red: string;

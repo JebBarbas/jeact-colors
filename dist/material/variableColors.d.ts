@@ -1,5 +1,5 @@
 /**
- * Material UI Amber Colors
+ * Material Amber Colors
  */
 export declare const amber: {
     '50': string;
@@ -18,7 +18,7 @@ export declare const amber: {
     A700: string;
 };
 /**
- * Material UI Blue Colors
+ * Material Blue Colors
  */
 export declare const blue: {
     '50': string;
@@ -37,7 +37,7 @@ export declare const blue: {
     A700: string;
 };
 /**
- * Material UI Blue Grey Colors
+ * Material Blue Grey Colors
  */
 export declare const blueGrey: {
     '50': string;
@@ -56,7 +56,7 @@ export declare const blueGrey: {
     A700: string;
 };
 /**
- * Material UI Brown Colors
+ * Material Brown Colors
  */
 export declare const brown: {
     '50': string;
@@ -75,14 +75,14 @@ export declare const brown: {
     A700: string;
 };
 /**
- * Material UI Common (Black and White) Colors
+ * Material Common (Black and White) Colors
  */
 export declare const common: {
     black: string;
     white: string;
 };
 /**
- * Material UI Cyan Colors
+ * Material Cyan Colors
  */
 export declare const cyan: {
     '50': string;
@@ -101,7 +101,7 @@ export declare const cyan: {
     A700: string;
 };
 /**
- * Material UI Deep Orange Colors
+ * Material Deep Orange Colors
  */
 export declare const deepOrange: {
     '50': string;
@@ -120,7 +120,7 @@ export declare const deepOrange: {
     A700: string;
 };
 /**
- * Material UI Deep Purple Colors
+ * Material Deep Purple Colors
  */
 export declare const deepPurple: {
     '50': string;
@@ -139,7 +139,7 @@ export declare const deepPurple: {
     A700: string;
 };
 /**
- * Material UI Green Colors
+ * Material Green Colors
  */
 export declare const green: {
     '50': string;
@@ -158,7 +158,7 @@ export declare const green: {
     A700: string;
 };
 /**
- * Material UI Grey Colors
+ * Material Grey Colors
  */
 export declare const grey: {
     '50': string;
@@ -177,7 +177,7 @@ export declare const grey: {
     A700: string;
 };
 /**
- * Material UI Indigo Colors
+ * Material Indigo Colors
  */
 export declare const indigo: {
     '50': string;
@@ -196,7 +196,7 @@ export declare const indigo: {
     A700: string;
 };
 /**
- * Material UI Blue Colors
+ * Material Blue Colors
  */
 export declare const lightBlue: {
     '50': string;
@@ -215,7 +215,7 @@ export declare const lightBlue: {
     A700: string;
 };
 /**
- * Material UI Light Green Colors
+ * Material Light Green Colors
  */
 export declare const lightGreen: {
     '50': string;
@@ -234,7 +234,7 @@ export declare const lightGreen: {
     A700: string;
 };
 /**
- * Material UI Lime Colors
+ * Material Lime Colors
  */
 export declare const lime: {
     '50': string;
@@ -253,7 +253,7 @@ export declare const lime: {
     A700: string;
 };
 /**
- * Material UI Orange Colors
+ * Material Orange Colors
  */
 export declare const orange: {
     '50': string;
@@ -272,7 +272,7 @@ export declare const orange: {
     A700: string;
 };
 /**
- * Material UI Pink Colors
+ * Material Pink Colors
  */
 export declare const pink: {
     '50': string;
@@ -291,7 +291,7 @@ export declare const pink: {
     A700: string;
 };
 /**
- * Material UI Purple Colors
+ * Material Purple Colors
  */
 export declare const purple: {
     '50': string;
@@ -310,7 +310,7 @@ export declare const purple: {
     A700: string;
 };
 /**
- * Material UI Red Colors
+ * Material Red Colors
  */
 export declare const red: {
     '50': string;
@@ -329,7 +329,7 @@ export declare const red: {
     A700: string;
 };
 /**
- * Material UI Teal Colors
+ * Material Teal Colors
  */
 export declare const teal: {
     '50': string;
@@ -348,7 +348,7 @@ export declare const teal: {
     A700: string;
 };
 /**
- * Material UI Yellow Colors
+ * Material Yellow Colors
  */
 export declare const yellow: {
     '50': string;
